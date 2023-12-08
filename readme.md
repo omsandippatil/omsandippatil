@@ -1,6 +1,6 @@
 ![l8zpv4](https://github.com/omsandeepatil/omsandeeppatil/assets/131482831/47e722fb-64df-4597-b9ae-4d12efcf60a6)
 
-# Hi there! 👋
+# Namaste! 🙏
 I'm Om, the human behind the screen. If I were a software, I'd be a mix of spaghetti code and infinite loops, but somehow, I manage to get things done (Kabhi Kabhi).
 
 ## About Me
