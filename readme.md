@@ -32,7 +32,7 @@ I'm Om, the human behind the screen. If I were a software, I'd be a mix of spagh
 Let's chat about coding, pizza, or why cats are clearly superior to dogs. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/omsandeeppatil)
-[![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=firefox)](https://github.com/omsandeepatil)
+[![Recurssion](https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=firefox)](https://github.com/omsandeepatil)
 
 ## Random Quote
 
