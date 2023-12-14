@@ -39,4 +39,7 @@ Let's chat about coding, pizza, or why cats are clearly superior to dogs. Feel f
 > "Why do programmers prefer dark mode? Because the light attracts bugs!" 😄
 
 Thanks for dropping by! Now, go write some code and remember: Keep it bug-free and sprinkle some humor on it! 🚀
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31uw53f5454epgmtenldpssnng4a&width=1000)
+
+## Spotify Recent Playlist
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31uw53f5454epgmtenldpssnng4a&width=1000)
