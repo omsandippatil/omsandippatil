@@ -1,5 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=omsandeepatil&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omsandeepatil&show_icons=true&theme=merko&hide_border=true&line_height=20)
+
 # Namaste! 🙏
 I'm Om, the human behind the screen. If I were a software, I'd be a mix of spaghetti code and infinite loops, but somehow, I manage to get things done (Kabhi Kabhi).
  
@@ -43,3 +42,7 @@ Thanks for dropping by! Now, go write some code and remember: Keep it bug-free a
 ## Spotify Recent Playlist
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31uw53f5454epgmtenldpssnng4a&width=1000)
+
+## Github Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=omsandeepatil&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=950)
+ 
