@@ -1,8 +1,8 @@
-![l8zpv4](https://github.com/omsandeepatil/omsandeeppatil/assets/131482831/47e722fb-64df-4597-b9ae-4d12efcf60a6)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=omsandeepatil&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omsandeepatil&show_icons=true&theme=merko&hide_border=true)
 # Namaste! 🙏
 I'm Om, the human behind the screen. If I were a software, I'd be a mix of spaghetti code and infinite loops, but somehow, I manage to get things done (Kabhi Kabhi).
-
+ 
 ## About Me
 
 - 🌍 Living on Earth, surprisingly (I believe its Flat)
