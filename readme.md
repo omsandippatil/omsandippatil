@@ -22,7 +22,7 @@ I'm Om, the human behind the screen. If I were a software, I'd be a mix of spagh
 
 ## Fun Facts
 
-- I speak three languages: English, Hindi, Marathi and Emoji.
+- I speak four languages: English, Hindi, Marathi and Emoji.
 - My code is like a fine wine - it gets better with time (and lots of debugging).
 - I once beat a computer at chess. It was in sleep mode, but I still count it.
 
