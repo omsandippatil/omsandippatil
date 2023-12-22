@@ -44,4 +44,5 @@ Thanks for dropping by! Now, go write some code and remember: Keep it bug-free a
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31uw53f5454epgmtenldpssnng4a&width=1000)
 
 ## Github Streak
-![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=omsandippatil&show_icons=true&theme=dark#gh-dark-mode-only)
+![GitHub Streak](https://streak-stats.demolab.com?user=omsandippatil&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=950)
+ 
