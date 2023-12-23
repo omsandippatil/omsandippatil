@@ -33,7 +33,7 @@ Let's chat about coding, pizza, or why cats are clearly superior to dogs. Feel f
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/omsandeeppatil)
 [![Recurssion](https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=firefox)](https://github.com/omsandeepatil)
 
-## Random Quote
+## Random Joke
 
 > "Why do programmers prefer dark mode? Because the light attracts bugs!" 😄
 
