@@ -1,7 +1,7 @@
 ![Om's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omsandippatil&theme=github-compact)
 # Namaste! 🙏
 I'm Om, the human behind the screen. If I were a software, I'd be a mix of spaghetti code and infinite loops, but somehow, I manage to get things done (Kabhi Kabhi).
- 
+  
 ## About Me
  
 - 🌍 Living on Earth, surprisingly (I believe its Flat)
