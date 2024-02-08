@@ -8,7 +8,7 @@ I'm Om, the human behind the screen. If I were a software, I'd be a mix of spagh
 - 💻 Coding like a wizard, or at least trying to 
 - 🎮 Procrastinating level: Expert
 - 🍕 Pizza enthusiast (because pizza is life)
-
+ 
 ## Skills
 
 - 💬 Talking to machines (sometimes they listen)
