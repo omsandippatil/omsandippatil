@@ -4,7 +4,7 @@ I'm Om, the human behind the screen. If I were a software, I'd be a mix of spagh
    
 ## About Me 
 
-[![committers.top badge](https://user-badge.committers.top/india/USERNAME.svg)](https://user-badge.committers.top/india/omsandippatil)
+[![committers.top badge](https://user-badge.committers.top/india/omsandippatil.svg)](https://user-badge.committers.top/india/omsandippatil)
 
    
 - 🌍 Living on Earth, surprisingly (I believe its Flat)
