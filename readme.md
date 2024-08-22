@@ -1,50 +1,42 @@
-![Om's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omsandippatil&theme=github-compact)
-# Namaste! 🙏 
-I'm Om, the human behind the screen. If I were a software, I'd be a mix of spaghetti code and infinite loops, but somehow, I manage to get things done (Kabhi Kabhi).  
-   
-## About Me 
+# Welcome to the Void 🕳️
 
+I'm Om, the digital necromancer. If I were a software, I'd be a Lovecraftian nightmare of spaghetti code and recursive madness. Yet, somehow, I summon functional abominations from the abyss (occasionally).
+
+## About Me (or whatever's left of it)
 [![committers.top badge](https://user-badge.committers.top/india/omsandippatil.svg)](https://user-badge.committers.top/india/omsandippatil)
 
-   
-- 🌍 Living on Earth, surprisingly (I believe its Flat)
-- 💻 Coding like a wizard, or at least trying to 
-- 🎮 Procrastinating level: Expert
-- 🍕 Pizza enthusiast (because pizza is life)
- 
-## Skills
+- 🌍 Trapped on this cosmic joke called Earth (it's flat, fight me)
+- 💻 Channeling eldritch horrors into code
+- 🎮 Professional time-waster, amateur everything else
+- 🍕 Pizza cultist (because circular food is clearly superior)
 
-- 💬 Talking to machines (sometimes they listen)
-- 🚀 Launching code into space (figuratively)
-- 🕹 Playing video games (for research purposes, obviously)
-- 🎭 Mastering the art of debugging (and pretending to know what I'm doing)
+## "Skills" (read: Coping Mechanisms)
+- 💬 Whispering sweet nothings to silicon
+- 🚀 Launching bugs into production at light speed
+- 🕹️ Mastering virtual worlds (because the real one is overrated)
+- 🎭 Method acting as a competent developer
 
 ## Current Project
+🤖 Summoning an AI overlord to take over my job, freeing me to pursue my true calling: professional couch potato.
 
-🤖 Creating a robot to do all my coding for me, so I can focus on more important things like deciding what to have for lunch.
+## Fun Facts (that will haunt your dreams)
+- I'm fluent in four languages: English, Hindi, Marathi, and Existential Dread.
+- My code is like a black hole - dense, incomprehensible, and prone to crushing all hope.
+- I once beat a computer at chess. It was unplugged, but victory is victory.
 
-## Fun Facts
-
-- I speak four languages: English, Hindi, Marathi and Emoji.
-- My code is like a fine wine - it gets better with time (and lots of debugging).
-- I once beat a computer at chess. It was in sleep mode, but I still count it.
-
-## Connect with Me
-
-Let's chat about coding, pizza, or why cats are clearly superior to dogs. Feel free to reach out!
+## Connect with Me (at your own risk)
+Want to discuss the futility of clean code or debate the superiority of pineapple on pizza? Reach out, if you dare:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/omsandeeppatil)
-[![Recurssion](https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=firefox)](https://github.com/omsandippatil)
+[![Recursion](https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=firefox)](https://github.com/omsandippatil)
 
-## Random Joke
+## Programmer's Lament
+> "Why do programmers prefer dark mode? Because their future is as dark as their IDE." 💀
 
-> "Why do programmers prefer dark mode? Because the light attracts bugs!" 😄
+Thanks for stumbling into my digital dungeon! Now go forth and code, and remember: In the face of merge conflicts, laugh maniacally! 🦇
 
-Thanks for dropping by! Now, go write some code and remember: Keep it bug-free and sprinkle some humor on it! 🚀
-
-## Spotify Recent Playlist
-
+## Spotify's Soundtrack to My Descent
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31uw53f5454epgmtenldpssnng4a&width=1000)
 
-## Github Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=omsandippatil&theme=merko&hide_border=true&card_width=950) 
+## Github Streak (or Streak of Madness?)
+![GitHub Streak](https://streak-stats.demolab.com?user=omsandippatil&theme=merko&hide_border=true&card_width=950)
