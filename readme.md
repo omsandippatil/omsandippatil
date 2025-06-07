@@ -4,7 +4,7 @@ I'm Om, the digital necromancer. If I were a software, I'd be a Lovecraftian nig
 
 ## About Me (or whatever's left of it)
 [![committers.top badge](https://user-badge.committers.top/india/omsandippatil.svg)](https://user-badge.committers.top/india/omsandippatil)
-![profile.visit](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![profile.visit](https://komarev.com/ghpvc/?username=omsandippatil&style=flat-square)
 
 - 🌍 Trapped on this cosmic joke called Earth (it's flat, fight me)
 - 💻 Channeling eldritch horrors into code
