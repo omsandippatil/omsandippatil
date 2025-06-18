@@ -54,9 +54,11 @@ sudo mount /dev/nvme0n1p3 /mnt
 sudo mount /dev/nvme0n1p1 /mnt/boot/efi
 
 # Bind necessary system directories
-for i in dev dev/pts proc sys run; do
-  sudo mount --rbind /$i /mnt/$i
-done
+sudo mount --rbind /dev /mnt/dev
+sudo mount --rbind /dev/pts /mnt/dev/pts
+sudo mount --rbind /proc /mnt/proc
+sudo mount --rbind /sys /mnt/sys
+sudo mount --rbind /run /mnt/run
 
 # Now chroot into your actual system
 sudo chroot /mnt
