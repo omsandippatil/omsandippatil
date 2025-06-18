@@ -41,3 +41,22 @@ Thanks for stumbling into my digital dungeon! Now go forth and code, and remembe
 
 ## Github Streak (or Streak of Madness?)
 ![GitHub Streak](https://streak-stats.demolab.com?user=omsandippatil&theme=merko&hide_border=true&card_width=950)
+
+
+
+
+
+
+# Mount your main root filesystem
+sudo mount /dev/nvme0n1p3 /mnt
+
+# Mount the EFI partition
+sudo mount /dev/nvme0n1p1 /mnt/boot/efi
+
+# Bind necessary system directories
+for i in dev dev/pts proc sys run; do
+  sudo mount --rbind /$i /mnt/$i
+done
+
+# Now chroot into your actual system
+sudo chroot /mnt
